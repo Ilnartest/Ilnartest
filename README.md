@@ -4,7 +4,7 @@
 
 Я имею практический опыт ручного и автоматизированного тестирования на JAVA.Ищу компанию, где смогу развивать свои профессиональные навыки.
 
-Skills: SQL / BugTracker / Agile / Scrum / Kanban / Github / Selenide / JUnit5 / IntelliJ IDEA / Allure TestOps / Jenkins
+Стек: SQL / BugTracker / Agile / Scrum / Kanban / Github / Selenide / JUnit5 / IntelliJ IDEA / Allure TestOps / Jenkins
 
 - 🌱 На данный момент учусь в школе QA.GURU на автотестировщика JAVA.
 - 📫 Мой телеграм для связи: https://t.me/IlnarKadyyrov 
