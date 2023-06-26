@@ -4,7 +4,7 @@
 
 Я имею практический опыт ручного и автоматизированного тестирования на JAVA.Ищу компанию, где смогу развивать свои профессиональные навыки.
 
-Моё резюме: https://disk.yandex.ru/i/LKPtBwI_xJKONg
+Моё резюме :point_right: https://disk.yandex.ru/i/LKPtBwI_xJKONg
 
 Стек: TestRail / JAVA / SQL / BugTracker / Agile / Scrum / Kanban / Github / Selenide / JUnit5 / IntelliJ IDEA / Allure TestOps / Jenkins
 
