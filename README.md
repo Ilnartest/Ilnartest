@@ -3,7 +3,7 @@
 ![Я специалист по тестированию ПО](https://github.com/Ilnartest/Ilnartest/blob/main/QA-banner.jpg)
 
 Я имею практический опыт ручного и автоматизированного тестирования на JAVA.Ищу компанию, где смогу развивать свои профессиональные навыки.
-Моё резюме по ссылке: https://disk.yandex.ru/i/LKPtBwI_xJKONg
+Моё резюме: https://disk.yandex.ru/i/LKPtBwI_xJKONg
 
 Стек: TestRail / JAVA / SQL / BugTracker / Agile / Scrum / Kanban / Github / Selenide / JUnit5 / IntelliJ IDEA / Allure TestOps / Jenkins
 
