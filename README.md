@@ -6,7 +6,7 @@
 
 ## Моё резюме :point_right: https://disk.yandex.ru/i/LKPtBwI_xJKONg
 
-## Стек:
+// ## Стек:
 TestRail / JAVA / SQL / BugTracker / Agile / Scrum / Kanban / Github / Selenide / JUnit5 / IntelliJ IDEA / Allure TestOps / Jenkins
 
 ## - 🌱 На данный момент учусь в школе QA.GURU на автотестировщика JAVA.
