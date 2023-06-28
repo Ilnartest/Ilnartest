@@ -12,7 +12,7 @@
 
 
 ## :gear: Аналитика GitHub
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilnartest&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/статистика?username=Ilnartest&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilnartest&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilnartest&theme=algolia)
 
