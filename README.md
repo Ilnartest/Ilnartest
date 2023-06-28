@@ -15,7 +15,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ilnartest&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilnartest&theme=algolia)
 
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff99" />
 
 
 
