@@ -2,7 +2,7 @@
 
 Специалист по тестированию ПО. :100:
 ![](https://github.com/Ilnartest/Ilnartest/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%BD%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%81.png)
-![](https://github.com/Ilnartest/Ilnartest/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%BD%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%81.png)
+![](Сертификат QA.GURU.png)
 
    Я имею практический опыт ручного и автоматизированного тестирования с инструментом JAVA. Ищу компанию, где смогу развивать свои профессиональные навыки.
 
