@@ -9,7 +9,7 @@
 
  :point_right: Резюме : [:scroll:](https://disk.yandex.ru/i/MXnFZaUjLF7d7A)
  
- :pencil2: Телеграм для связи: [:envelope:](//t.me/IlnarKadyyrov)
+ :pencil2: Телеграм для связи: [:envelope:](//t.me/Ilnar_Kadyirov)
 
 :computer: Стек:
   
