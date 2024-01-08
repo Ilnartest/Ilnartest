@@ -9,7 +9,7 @@
 
    Я имею практический опыт ручного и автоматизированного тестирования. Ищу компанию, где смогу развивать свои профессиональные навыки.
 
- :point_right: Резюме : [:scroll:]([https://disk.yandex.ru/i/MXnFZaUjLF7d7A](https://disk.yandex.ru/i/BkmenyBJ70hW0A))
+ :point_right: Резюме : [:scroll:](https://disk.yandex.ru/i/BkmenyBJ70hW0A)
  
  :pencil2: Телеграм для связи: [:envelope:](//t.me/Ilnar_Kadyirov)
 
